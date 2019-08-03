@@ -4,8 +4,8 @@
   "background_color": "#1a1a1a",
   "display": "standalone",
   "orientation": "portrait",
-  "Scope": "/github.com/alekskushchik/movie_land",
-  "start_url": "/github.com/alekskushchik/movie_land",
+  "Scope": "/alekskushchik.github.io/movie_land",
+  "start_url": "/alekskushchik.github.io/movie_land",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
