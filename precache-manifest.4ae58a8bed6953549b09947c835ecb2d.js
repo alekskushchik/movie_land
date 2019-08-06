@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "daeb093bfce96fba1d54f5dde43498ce",
+    "revision": "277c16e773cfd1bca12b8b209ac86368",
     "url": "/movie_land/index.html"
   },
   {
-    "revision": "734d582837c20484970d",
-    "url": "/movie_land/static/css/main.edd9ac45.chunk.css"
+    "revision": "e1a885d457cc431b0d0d",
+    "url": "/movie_land/static/css/main.948c0131.chunk.css"
   },
   {
     "revision": "724b5a542b4af3c343a2",
     "url": "/movie_land/static/js/2.1e03f7c9.chunk.js"
   },
   {
-    "revision": "734d582837c20484970d",
+    "revision": "e1a885d457cc431b0d0d",
     "url": "/movie_land/static/js/main.d5d9c672.chunk.js"
   },
   {
