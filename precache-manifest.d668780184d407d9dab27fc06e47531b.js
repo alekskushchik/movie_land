@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eb943515d50f4603aefaf00241b4761a",
+    "revision": "5b1b58a38d44f001ee636041f548ad61",
     "url": "/movie_land/index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/movie_land/static/css/2.1f156bdb.chunk.css"
   },
   {
-    "revision": "1bb73d1ae0f58b5c8d05",
-    "url": "/movie_land/static/css/main.5a867434.chunk.css"
+    "revision": "c9875bb5bf820db8e599",
+    "url": "/movie_land/static/css/main.c8a14cfb.chunk.css"
   },
   {
     "revision": "724da7b40f86ee577136",
     "url": "/movie_land/static/js/2.f785b67a.chunk.js"
   },
   {
-    "revision": "1bb73d1ae0f58b5c8d05",
+    "revision": "c9875bb5bf820db8e599",
     "url": "/movie_land/static/js/main.802ae543.chunk.js"
   },
   {
