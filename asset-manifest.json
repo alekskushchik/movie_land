@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/movie_land/static/css/main.d0a48965.chunk.css",
+    "main.css": "/movie_land/static/css/main.ee4d3b5e.chunk.css",
     "main.js": "/movie_land/static/js/main.eb4246ad.chunk.js",
     "main.js.map": "/movie_land/static/js/main.eb4246ad.chunk.js.map",
     "runtime~main.js": "/movie_land/static/js/runtime~main.7868b5dd.js",
@@ -8,8 +8,8 @@
     "static/js/2.b447d79f.chunk.js": "/movie_land/static/js/2.b447d79f.chunk.js",
     "static/js/2.b447d79f.chunk.js.map": "/movie_land/static/js/2.b447d79f.chunk.js.map",
     "index.html": "/movie_land/index.html",
-    "precache-manifest.238265af1063d2e9589fff256c510af2.js": "/movie_land/precache-manifest.238265af1063d2e9589fff256c510af2.js",
+    "precache-manifest.de534775f32233d4fb42a44d44ffd8d3.js": "/movie_land/precache-manifest.de534775f32233d4fb42a44d44ffd8d3.js",
     "service-worker.js": "/movie_land/service-worker.js",
-    "static/css/main.d0a48965.chunk.css.map": "/movie_land/static/css/main.d0a48965.chunk.css.map"
+    "static/css/main.ee4d3b5e.chunk.css.map": "/movie_land/static/css/main.ee4d3b5e.chunk.css.map"
   }
 }
